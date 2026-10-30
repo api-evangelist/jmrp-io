@@ -72,18 +72,77 @@ jmrp.io is the personal site of José Manuel Requena Plens, an embedded firmware
 
 Everything profiled for jmrp-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jmrp-io/](https://apis.io/providers/jmrp-io/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [JMRP API](https://apis.io/apis/jmrp-io/jmrp-api/) — API for JMRP services (description not found)
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Jmrp Io Domain Security](https://apis.io/security/jmrp-io/jmrp-io-domain-security/)
+- [Jmrp Io Vulnerability Disclosure](https://apis.io/security/jmrp-io/jmrp-io-vulnerability-disclosure/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://jmrp.io/)
-- [Documentation](https://jmrp.io/)
+- [Documentation](https://docs.jmrp.io/)
 - [Getting started](https://jmrp.io/cv/)
+- [Pricing](https://jmrp.io/pricing/)
+- [Support](https://jmrp.io/about/)
 - [Blog](https://jmrp.io/blog/)
+- [Security](https://jmrp.io/.well-known/security.txt)
+- [Privacy policy](https://jmrp.io/privacy/)
+- [GitHub](https://github.com/jmrplens)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/jmrp-io/](https://apis.io/providers/jmrp-io/).
+**Kin Score 21.8** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jmrp-io/](https://apis.io/providers/jmrp-io/).
 
 ## How this profile is made
 
